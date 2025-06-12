@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    height: 100vh;
+    background-size: cover;
+}
+
+.tourism-card {
+    text-align: center;
+    background-color: white;
+    padding: 70px;
+}
+
+.main-heading {
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 30px;
+
+}
+
+.paragraph {
+    font-family: "Roboto";
+    padding: 10px;
+    margin: 10px;
+}
+
+.btmsec {
+    padding: 10px;
+    text-align: center;
+}
+
+.button {
+    height: 36px;
+    margin: 10px;
+    width: 138px;
+    background-color: blue;
+    color: white;
+    border-radius: 3px;
+    border-width: 0px;
+}
+
+.con1 {
+    text-align: center;
+    padding: 15px;
+}
+
+.hd1 {
+    font-size: 25px;
+    font-weight: bold;
+    color: #183b56;
+}
+
+.para1 {
+    color: #5a7184;
+}
+
+.carditm {
+    background-color: white;
+    text-align: center;
+    width: 450px;
+    border-radius: 10px;
+    padding: 1px;
+    margin: 5px;
+}
+
+.h11 {
+    font-family: "Roboto";
+    color: #183b56;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.prz {
+    font-family: "Roboto";
+    font-size: 15px;
+    color: #323f4b;
+}
